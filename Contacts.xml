@@ -98,7 +98,6 @@
 <contact name="*LV SHOPPING DA ILHA " number="7019" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV SHOPPING DO AUTOMOVEL " number="7002" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV SHOPPING TROPICAL " number="7008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
-<contact name="*LV SPICY " number="2013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="*LV SUPER FACIL RODOVIARIA " number="4041" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV SUPERMERCADO CIDADE MOSSORO " number="4022" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV SUPERMERCADO IDEAL " number="5004" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
@@ -256,5 +255,6 @@
 <contact name="TIAGO PEREIRA " number="3120" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="VINICIUS SILVA " number="3041" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="CINTHIA CARIDADE " number="3149" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="*LV SPICY " number="2013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 
 -->
