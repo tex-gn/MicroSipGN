@@ -20,9 +20,11 @@
 <contact name="RUTH SOUZA " number="3048" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="LUNNARA ALVES " number="3062" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="DEYVIDE OLIVEIRA " number="3057" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
-
+<contact name="KIVIA SILVA " number="3151" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 -->
-
+ 
+<contact name="*GN RECEPCAO " number="3001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="*GN MONITORAMENTO " number="3109" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="*LV CONDE " number="5016" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV INGA " number="5017" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV ITABAIANA " number="5015" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
@@ -30,7 +32,6 @@
 <contact name="*VD ITABAIANA SALAO " number="5013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*VD TOUROS " number="4048" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV TOUROS " number="4047" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>    
-<contact name="AGENTE MONITORAMENTO " number="3079" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>       
 <contact name="*VD MACAU " number="4046" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>     
 <contact name="*LV MACAU " number="4045" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>     
 <contact name="*LV FERREIRA COSTA " number="4044" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>   
@@ -132,6 +133,7 @@
 <contact name="*LV VENANCIO NEIVA " number="5008" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV VIA DIRETA " number="4021" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="*LV ZE DOCA " number="7038" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
+<contact name="AGENTE MONITORAMENTO " number="3079" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>       
 <contact name="ANASTACIO SOUSA " number="3012" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="TERCIA OLIVEIRA " number="3011" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="MARIA JAYME " number="3135" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
@@ -156,7 +158,6 @@
 <contact name="HUGO SOARES " number="3072" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="IVANIZE CORTEZ " number="3123" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="JANISONIA SILVA " number="3024" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
-<contact name="KIVIA SILVA " number="3151" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="ROBNILSON MEDEIROS " number="3135" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="KELLY SOUZA " number="3061" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="ANA LARISSA " number="3023" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
@@ -168,14 +169,12 @@
 <contact name="NATALIA DINA " number="3065" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="RAFAELA MELO " number="3019" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="On the phone" presence="1" directory="1"/>
 <contact name="RAUL BEZERRA " number="3036" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
-<contact name="*GN RECEPCAO " number="3001" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="RENATA SILVA " number="3046" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="JOCELIA ROCHA " number="3017" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="ROSEANE SOUZA " number="3047" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="SAMARA SILVA " number="3049" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="SAMILA COSTA " number="3090" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="SANDRILEIA DUTRA " number="3050" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
-<contact name="*GN MONITORAMENTO " number="3109" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="WAGNER CRUZ " number="3107" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="EDWELTON LIMA " number="3160" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>  
 <contact name="RAFAELLA PAZ " number="3073" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
@@ -192,7 +191,15 @@
 <contact name="HUGO CARVALHO " number="3163" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="REBECA SILVA " number="3166" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="RAQUEL LOURENCO " number="3010" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
-
+<contact name="MARCELLE MENEZES " number="3013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="JULIA OLIVEIRA " number="3015" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="CAROL LIMA " number="3031" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="MARIA JAYME " number="3035" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="DJANIO MONCHARLES " number="3080" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="GABRIEL GALDINO " number="3128" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="JOÃO IGOR " number="3132" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+<contact name="EMILLY OLIVEIRA " number="3168" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
+  
 </contacts>
 
 <!-- Antigos colaboradores que não foram migrados para a central gentilnegocios.ipxtelecom 
