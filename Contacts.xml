@@ -148,9 +148,7 @@
 <contact name="BRUNO FERNANDES " number="3077" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="CLAUDERSON LIMA " number="3009" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="NEYSE FLOR " number="3026" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
-<contact name="ELOISA FRANCA " number="3070" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="ELTON FERNANDES " number="3071" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
-<contact name="ERIKA ALBUQUERQUE" number="3141" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="0"/>
 <contact name="FRANCISCO BATISTA " number="3078" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="GARDENIA SOUSA " number="3060" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="GEIZA SILVA " number="3108" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
@@ -187,7 +185,6 @@
 <contact name="GLAUCIO TEIXEIRA " number="3005" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="JOSE GUERRA " number="3143" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="HUGO CARVALHO " number="3163" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
-<contact name="REBECA SILVA " number="3166" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="RAQUEL LOURENCO " number="3010" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="MARCELLE MENEZES " number="3013" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
 <contact name="JULIA OLIVEIRA " number="3015" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Ready" presence="1" directory="1"/>
@@ -201,4 +198,7 @@
 <contact name="CARLA SILVA " number="3029" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="LUANA SANTIAGO " number="3030" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 <contact name="GABRIEL MACEDO " number="3022" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
+<contact name="RAIOMARA BARAUNA " number="3023" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
+<contact name="ALIADINE BORGES " number="3045" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
+<contact name="RYCK OLIVEIRA " number="3161" firstname="" lastname="" phone="" mobile="" email="" address="" city="" state="" zip="" comment="" id="" info="Not online" presence="1" directory="1"/>
 </contacts>
